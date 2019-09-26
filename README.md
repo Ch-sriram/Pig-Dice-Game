@@ -1,9 +1,7 @@
 # Pig Dice Game
 
-<center>
-    <strong>A simple two player dice game made using HTML5, CSS3 &amp; JavaScript</strong> <br/>
-    Please click <strong><a href="https://pig-game.chsriram.repl.co/">here</a></strong> to play the game
-</center>
+
+<strong>A simple two player dice game made using HTML5, CSS3 &amp; JavaScript</strong>. Please click <strong><a href="https://pig-game.chsriram.repl.co/">here</a></strong> to play the game.
 
 *Made this game following an [online course](https://www.udemy.com/the-complete-javascript-course/). Added additional functionality to click a button to display Rules of the Game & also, to click a button to change the Winning Score of the Game.*
 
