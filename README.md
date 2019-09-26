@@ -18,4 +18,4 @@ Learned a lot of things while developing this project. Some of the skills I garn
   - Basic understanding of event delegation
 - Using third party apps like repl.it and codesandbox.io to deploy apps over the internet
 
-*Note: Some of the UI elements in the deployed version of the game may not work because the web browsers (chrome especially) don't let the third party websites load some of the scripts. The broswer deems them to be harmful scripts, but actually, they're not. Please enable third party scripts and reload the  webapp to play the game with a proper UI.*
+*Note: Some of the UI elements in the deployed version of the game may not work because the web browsers (chrome especially) don't let the third party websites load some of the scripts. The broswer deems them to be harmful scripts, but actually, they're not. Please enable third party scripts and reload the  webapp to play the game with a proper UI. Or, simply download this repo as a zip, and open index.html to play the game in a desktop machine.*
